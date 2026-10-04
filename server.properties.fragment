@@ -1,5 +1,4 @@
-# Wstaw te ustawienia do istniejacego server.properties.
-# Nie zastepuj tym fragmentem calego pliku.
+
 resource-pack=https://raw.githubusercontent.com/hyg3376-maker/cztery-monety-resourcepack/main/CzteryMonety-ResourcePack-1.21.3.zip
 resource-pack-sha1=a251e1f5bac3b7881e4006a0ec773e01ee988fe1
 require-resource-pack=true
